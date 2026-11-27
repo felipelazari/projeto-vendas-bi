@@ -2,7 +2,9 @@
 
 Dashboard de vendas feito no Power BI com dados fictícios de uma rede de lojas.
 
-![Visão geral do dashboard](imagens/visao-geral.png)
+Visão geral do dashboard
+<img width="1312" height="727" alt="image" src="https://github.com/user-attachments/assets/e041e0f7-8364-4bb9-828b-33dea84666db" />
+
 
 ## O que o projeto mostra
 - Faturamento, lucro, ticket médio e número de pedidos
@@ -25,4 +27,4 @@ Faturamento, Lucro, Margem %, Ticket Médio, Nº de Pedidos, Clientes Ativos
 2. Abra no Power BI Desktop (gratuito)
 
 ## Autor
-Felipe Lázari Coltro – [LinkedIn](cole aqui o seu link)
+Felipe Lázari Coltro – [LinkedIn](https://www.linkedin.com/in/felipelazaricoltro/)
